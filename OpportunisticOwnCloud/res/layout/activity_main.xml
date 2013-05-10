@@ -19,19 +19,19 @@
         android:orientation="vertical" >
 
         <Button
-            android:id="@+id/button1"
+            android:id="@+id/button_upload"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Upload" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/button_download"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Download" />
 
         <ListView
-            android:id="@+id/listView1"
+            android:id="@+id/list_files"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" >
         </ListView>
