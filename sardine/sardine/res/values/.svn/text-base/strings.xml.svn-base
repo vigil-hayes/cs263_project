@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PSB</string>
+    <string name="app_full_name">Personal Storage Box</string>
+    <string name="nas_file">    PSB File</string>
+    <string name="local_file">   Local File</string>
+    <string name="load_dialog_tile">Now loading</string>
+    <string name="upload_dialog_tile">Now uploading</string>
+    <string name="dialog_mess">Please wait...</string>
+    <string name="dele_dialog_tile">Now deleting</string>
+    <string name="create_folder">Create Folder</string>
+    <string name="input_folder_name">Please input file name</string>
+    <string name="upload_file">Upload</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="rename">Rename</string>
+    <string name="rename_prompt">Enter the new file name</string>
+    <string name="about">About</string>
+    <string name="prompt">Prompt</string>
+    <string name="finish">Are you sure to exit?</string>
+    <string name="error">Network error</string>
+    <string name="exit">Exit</string>
+    <string name="edit">Edit</string>
+    <string name="download">Download</string>
+    <string name="delete">Delete</string>
+    <string name="copy">Copy</string>
+    <string name="move">Move</string>
+    <string name="paste">Paste</string>
+    <string name="title">兰州韦尔斯信息科技有限公司 \n手机云存储</string>
+    <string name="upload_toast">Upload file successfully</string>
+    <string name="download_toast">Download to /mnt/sdcard/weslab/</string>
+    <string name="delete_toast">Delete file successfully</string>
+    <string name="cannotpaste_toast">Can not paste, no file in cache</string>
+    <string name="paste_toast">Paste successfully</string>
+    <string name="copy_toast">Copying file </string>
+    <string name="move_toast">Moving file </string>
+</resources>

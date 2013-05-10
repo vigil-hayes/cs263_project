@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7/trunk/sardine/res/layout
+END
+server_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/sardine/res/layout/server_item.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/sardine/res/layout/main.xml
+END
+create_new_folder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/sardine/res/layout/create_new_folder.xml
+END
+local_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/sardine/res/layout/local_item.xml
+END
+server_files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/sardine/res/layout/server_files.xml
+END
+about.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/sardine/res/layout/about.xml
+END
+local_files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/sardine/res/layout/local_files.xml
+END
+item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/sardine/res/layout/item.xml
+END

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<D:multistatus xmlns:D="DAV:" xmlns:ns0="DAV:">
+	<D:response xmlns:lp1="DAV:" xmlns:lp2="http://apache.org/dav/props/">
+		<D:href>/git/ilauncher.git/</D:href>
+		<D:propstat>
+			<D:prop>
+				<lp1:resourcetype>
+					<D:collection />
+				</lp1:resourcetype>
+				<lp1:creationdate>2011-12-23T12:22:57Z</lp1:creationdate>
+				<lp1:getlastmodified>Fri, 23 Dec 2011 12:22:57 GMT
+				</lp1:getlastmodified>
+				<lp1:getetag>"20073-1000-4b4c17a19f003"</lp1:getetag>
+				<D:supportedlock>
+					<D:lockentry>
+						<D:lockscope>
+							<D:exclusive />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+					<D:lockentry>
+						<D:lockscope>
+							<D:shared />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+				</D:supportedlock>
+				<D:lockdiscovery />
+				<D:getcontenttype>httpd/unix-directory</D:getcontenttype>
+			</D:prop>
+			<D:status>HTTP/1.1 200 OK</D:status>
+		</D:propstat>
+	</D:response>
+	<D:response xmlns:lp1="DAV:" xmlns:lp2="http://apache.org/dav/props/">
+		<D:href>/git/ilauncher.git/objects/</D:href>
+		<D:propstat>
+			<D:prop>
+				<lp1:resourcetype>
+					<D:collection />
+				</lp1:resourcetype>
+				<lp1:creationdate>2011-10-27T01:36:01Z</lp1:creationdate>
+				<lp1:getlastmodified>Thu, 27 Oct 2011 01:36:01 GMT
+				</lp1:getlastmodified>
+				<lp1:getetag>"20087-1000-4b03dcb94b9f2"</lp1:getetag>
+				<D:supportedlock>
+					<D:lockentry>
+						<D:lockscope>
+							<D:exclusive />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+					<D:lockentry>
+						<D:lockscope>
+							<D:shared />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+				</D:supportedlock>
+				<D:lockdiscovery />
+				<D:getcontenttype>httpd/unix-directory</D:getcontenttype>
+			</D:prop>
+			<D:status>HTTP/1.1 200 OK</D:status>
+		</D:propstat>
+	</D:response>
+	<D:response xmlns:lp1="DAV:" xmlns:lp2="http://apache.org/dav/props/">
+		<D:href>/git/ilauncher.git/description</D:href>
+		<D:propstat>
+			<D:prop>
+				<lp1:resourcetype />
+				<lp1:creationdate>2011-10-27T01:34:33Z</lp1:creationdate>
+				<lp1:getcontentlength>73</lp1:getcontentlength>
+				<lp1:getlastmodified>Thu, 27 Oct 2011 00:44:30 GMT
+				</lp1:getlastmodified>
+				<lp1:getetag>"20078-49-4b03d134f90fd"</lp1:getetag>
+				<lp2:executable>F</lp2:executable>
+				<D:supportedlock>
+					<D:lockentry>
+						<D:lockscope>
+							<D:exclusive />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+					<D:lockentry>
+						<D:lockscope>
+							<D:shared />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+				</D:supportedlock>
+				<D:lockdiscovery />
+			</D:prop>
+			<D:status>HTTP/1.1 200 OK</D:status>
+		</D:propstat>
+	</D:response>
+	<D:response xmlns:lp1="DAV:" xmlns:lp2="http://apache.org/dav/props/">
+		<D:href>/git/ilauncher.git/config</D:href>
+		<D:propstat>
+			<D:prop>
+				<lp1:resourcetype />
+				<lp1:creationdate>2011-10-27T01:34:33Z</lp1:creationdate>
+				<lp1:getcontentlength>66</lp1:getcontentlength>
+				<lp1:getlastmodified>Thu, 27 Oct 2011 00:44:30 GMT
+				</lp1:getlastmodified>
+				<lp1:getetag>"20086-42-4b03d134f9e03"</lp1:getetag>
+				<lp2:executable>F</lp2:executable>
+				<D:supportedlock>
+					<D:lockentry>
+						<D:lockscope>
+							<D:exclusive />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+					<D:lockentry>
+						<D:lockscope>
+							<D:shared />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+				</D:supportedlock>
+				<D:lockdiscovery />
+			</D:prop>
+			<D:status>HTTP/1.1 200 OK</D:status>
+		</D:propstat>
+	</D:response>
+	<D:response xmlns:lp1="DAV:" xmlns:lp2="http://apache.org/dav/props/">
+		<D:href>/git/ilauncher.git/refs/</D:href>
+		<D:propstat>
+			<D:prop>
+				<lp1:resourcetype>
+					<D:collection />
+				</lp1:resourcetype>
+				<lp1:creationdate>2011-10-27T01:34:33Z</lp1:creationdate>
+				<lp1:getlastmodified>Thu, 27 Oct 2011 00:44:30 GMT
+				</lp1:getlastmodified>
+				<lp1:getetag>"20074-1000-4b03d134f90fd"</lp1:getetag>
+				<D:supportedlock>
+					<D:lockentry>
+						<D:lockscope>
+							<D:exclusive />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+					<D:lockentry>
+						<D:lockscope>
+							<D:shared />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+				</D:supportedlock>
+				<D:lockdiscovery />
+				<D:getcontenttype>httpd/unix-directory</D:getcontenttype>
+			</D:prop>
+			<D:status>HTTP/1.1 200 OK</D:status>
+		</D:propstat>
+	</D:response>
+	<D:response xmlns:lp1="DAV:" xmlns:lp2="http://apache.org/dav/props/">
+		<D:href>/git/ilauncher.git/HEAD</D:href>
+		<D:propstat>
+			<D:prop>
+				<lp1:resourcetype />
+				<lp1:creationdate>2011-10-27T01:34:33Z</lp1:creationdate>
+				<lp1:getcontentlength>23</lp1:getcontentlength>
+				<lp1:getlastmodified>Thu, 27 Oct 2011 00:44:30 GMT
+				</lp1:getlastmodified>
+				<lp1:getetag>"20085-17-4b03d134f90fd"</lp1:getetag>
+				<lp2:executable>F</lp2:executable>
+				<D:supportedlock>
+					<D:lockentry>
+						<D:lockscope>
+							<D:exclusive />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+					<D:lockentry>
+						<D:lockscope>
+							<D:shared />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+				</D:supportedlock>
+				<D:lockdiscovery />
+			</D:prop>
+			<D:status>HTTP/1.1 200 OK</D:status>
+		</D:propstat>
+	</D:response>
+	<D:response xmlns:lp1="DAV:" xmlns:lp2="http://apache.org/dav/props/">
+		<D:href>/git/ilauncher.git/info/</D:href>
+		<D:propstat>
+			<D:prop>
+				<lp1:resourcetype>
+					<D:collection />
+				</lp1:resourcetype>
+				<lp1:creationdate>2011-10-27T01:34:33Z</lp1:creationdate>
+				<lp1:getlastmodified>Thu, 27 Oct 2011 00:59:42 GMT
+				</lp1:getlastmodified>
+				<lp1:getetag>"20079-1000-4b03d49abf062"</lp1:getetag>
+				<D:supportedlock>
+					<D:lockentry>
+						<D:lockscope>
+							<D:exclusive />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+					<D:lockentry>
+						<D:lockscope>
+							<D:shared />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+				</D:supportedlock>
+				<D:lockdiscovery />
+				<D:getcontenttype>httpd/unix-directory</D:getcontenttype>
+			</D:prop>
+			<D:status>HTTP/1.1 200 OK</D:status>
+		</D:propstat>
+	</D:response>
+	<D:response xmlns:lp1="DAV:" xmlns:lp2="http://apache.org/dav/props/">
+		<D:href>/git/ilauncher.git/branches/</D:href>
+		<D:propstat>
+			<D:prop>
+				<lp1:resourcetype>
+					<D:collection />
+				</lp1:resourcetype>
+				<lp1:creationdate>2011-10-27T01:34:33Z</lp1:creationdate>
+				<lp1:getlastmodified>Thu, 27 Oct 2011 00:44:30 GMT
+				</lp1:getlastmodified>
+				<lp1:getetag>"2007b-1000-4b03d134f90fd"</lp1:getetag>
+				<D:supportedlock>
+					<D:lockentry>
+						<D:lockscope>
+							<D:exclusive />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+					<D:lockentry>
+						<D:lockscope>
+							<D:shared />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+				</D:supportedlock>
+				<D:lockdiscovery />
+				<D:getcontenttype>httpd/unix-directory</D:getcontenttype>
+			</D:prop>
+			<D:status>HTTP/1.1 200 OK</D:status>
+		</D:propstat>
+	</D:response>
+	<D:response xmlns:lp1="DAV:" xmlns:lp2="http://apache.org/dav/props/">
+		<D:href>/git/ilauncher.git/hooks/</D:href>
+		<D:propstat>
+			<D:prop>
+				<lp1:resourcetype>
+					<D:collection />
+				</lp1:resourcetype>
+				<lp1:creationdate>2011-10-27T01:34:33Z</lp1:creationdate>
+				<lp1:getlastmodified>Thu, 27 Oct 2011 00:44:30 GMT
+				</lp1:getlastmodified>
+				<lp1:getetag>"2007c-1000-4b03d134f90fd"</lp1:getetag>
+				<D:supportedlock>
+					<D:lockentry>
+						<D:lockscope>
+							<D:exclusive />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+					<D:lockentry>
+						<D:lockscope>
+							<D:shared />
+						</D:lockscope>
+						<D:locktype>
+							<D:write />
+						</D:locktype>
+					</D:lockentry>
+				</D:supportedlock>
+				<D:lockdiscovery />
+				<D:getcontenttype>httpd/unix-directory</D:getcontenttype>
+			</D:prop>
+			<D:status>HTTP/1.1 200 OK</D:status>
+		</D:propstat>
+	</D:response>
+</D:multistatus>
