@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OWC</string>
+    <string name="app_full_name">ownCloud WebDav Client</string>
+    <string name="nas_file">    Server Files</string>
+    <string name="local_file">   Local Files</string>
+    <string name="load_dialog_tile">Loading</string>
+    <string name="upload_dialog_tile">Uploading</string>
+    <string name="dialog_mess">Please wait...</string>
+    <string name="dele_dialog_tile">Deleting</string>
+    <string name="create_folder">Create Folder</string>
+    <string name="input_folder_name">Input file name</string>
+    <string name="upload_file">Upload</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="rename">Rename</string>
+    <string name="rename_prompt">Enter new file name</string>
+    <string name="about">About</string>
+    <string name="prompt">Prompt</string>
+    <string name="finish">Exit?</string>
+    <string name="error">Network error</string>
+    <string name="exit">Exit</string>
+    <string name="edit">Edit</string>
+    <string name="download">Download</string>
+    <string name="delete">Delete</string>
+    <string name="copy">Copy</string>
+    <string name="move">Move</string>
+    <string name="paste">Paste</string>
+    <string name="title">ownCloud Webdav Client</string>
+    <string name="upload_toast">Upload successful</string>
+    <string name="download_toast">Download to /sdcard/owncloud/</string>
+    <string name="delete_toast">Delete successful</string>
+    <string name="cannotpaste_toast">Can not paste, no file in cache</string>
+    <string name="paste_toast">Paste successful</string>
+    <string name="copy_toast">Copying file </string>
+    <string name="move_toast">Moving file </string>
+</resources>

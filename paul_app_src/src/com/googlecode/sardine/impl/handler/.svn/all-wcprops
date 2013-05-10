@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/sardine/src/com/googlecode/sardine/impl/handler
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/impl/handler/package-info.java
+END
+LockResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/impl/handler/LockResponseHandler.java
+END
+MultiStatusResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7/trunk/sardine/src/com/googlecode/sardine/impl/handler/MultiStatusResponseHandler.java
+END
+ExistsResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/impl/handler/ExistsResponseHandler.java
+END
+VoidResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/impl/handler/VoidResponseHandler.java
+END
+ValidatingResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/impl/handler/ValidatingResponseHandler.java
+END

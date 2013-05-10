@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model
+END
+Creationdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Creationdate.java
+END
+Lockinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Lockinfo.java
+END
+Getlastmodified.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Getlastmodified.java
+END
+Keepalive.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Keepalive.java
+END
+Shared.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Shared.java
+END
+Displayname.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Displayname.java
+END
+Allprop.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Allprop.java
+END
+Propstat.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Propstat.java
+END
+Prop.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Prop.java
+END
+Lockdiscovery.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Lockdiscovery.java
+END
+Getetag.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Getetag.java
+END
+Propfind.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Propfind.java
+END
+Activelock.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Activelock.java
+END
+Resourcetype.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Resourcetype.java
+END
+Set.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Set.java
+END
+Collection.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Collection.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/ObjectFactory.java
+END
+Multistatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Multistatus.java
+END
+Source.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Source.java
+END
+Propertybehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Propertybehavior.java
+END
+Exclusive.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Exclusive.java
+END
+Omit.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Omit.java
+END
+Lockentry.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Lockentry.java
+END
+Getcontentlength.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Getcontentlength.java
+END
+Getcontenttype.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Getcontenttype.java
+END
+Getcontentlanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Getcontentlanguage.java
+END
+Propname.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Propname.java
+END
+Lockscope.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Lockscope.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/package-info.java
+END
+Propertyupdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Propertyupdate.java
+END
+Error.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Error.java
+END
+Locktoken.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Locktoken.java
+END
+Locktype.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Locktype.java
+END
+Owner.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Owner.java
+END
+Write.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Write.java
+END
+Remove.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Remove.java
+END
+Link.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/sardine/src/com/googlecode/sardine/model/Link.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Response.java
+END
+Supportedlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/sardine/src/com/googlecode/sardine/model/Supportedlock.java
+END
