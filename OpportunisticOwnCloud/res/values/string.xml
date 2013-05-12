@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">Opportunistic OwnCloud</string>
+    <string name="about">About</string>
+    <string name="finish">Finish</string>
+    <string name="prompt">Prompt</string>
+    <string name="cancel">Cancel</string><string name="ok">OK</string>
+    
+    <string name="oc_file">ownCloud File</string>
+    <string name="local_file">Local File</string>
+    
+</resources>
