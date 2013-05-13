@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry kind="lib" path="libs/commons-codec-1.4.jar"/>
-	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="libs/simple-xml-2.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/student/cs263_project/paul_app_src/bin/dexedLibs/commons-codec-1.4-f74ca9ebdb352084a8bc0dd148bd30d2.jar"/>
+	<classpathentry kind="lib" path="/Users/student/cs263_project/paul_app_src/bin/dexedLibs/commons-logging-1.1.1-c20e41863d9d2e58083c45384d39bf17.jar"/>
+	<classpathentry kind="lib" path="/Users/student/cs263_project/paul_app_src/libs/simple-xml-2.6.2.jar"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="output" path="bin/classes"/>
